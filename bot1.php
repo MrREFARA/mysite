@@ -4,8 +4,8 @@ include "vk_api.php";
 
 
 
-const VK_KEY = "b48c23e7e4aa9c7c02f61a51aff85b90e59a4c52567f8604e25074a9a82b2ccf8258f9b938095be8c5e9d"; //тот самый длинный ключ доступа сообщества
-const ACCESS_KEY = "be20ea35"; //например c40b9566, введите свой
+const VK_KEY = "47bf14e3b950f2e0fd6679f4c09c59a170ce9cda4ce6dc876c3d6a01bc88ac8dbe73fbb593c63da770749"; //тот самый длинный ключ доступа сообщества
+const ACCESS_KEY = "Ba60fg67"; //например c40b9566, введите свой
 const VERSION = "5.81"; //ваша версия используемого api
 
 
